@@ -1,12 +1,16 @@
 # Exercícios de Python - Mundo 2
 
-Esta é a lista de exercícios que realizei durante o meu terceiro curso de programação: **Python 3 - Mundo 2 [40 horas]** da plataforma **Curso em Vídeo** até o dia **2 de setembro de 2023**.
+Esta é a lista de 33 exercícios que realizei durante o meu terceiro curso de programação: **Python 3 - Mundo 2 [40 horas]** da plataforma **Curso em Vídeo** até o dia **2 de setembro de 2023**.
 
 ## Aprendizados utilizados
 
 - Condicionais aninhadas (elif);
 - Laços de repetição (for e while);
 - Quebra de laços de repetição (break).
+
+## Observações
+
+Todos os programas foram desenvolvidos em 2023. A atualização para publicação neste repositório consistiu apenas na adição do contexto e do enunciado em cada exercício, além da alteração dos títulos de todos os arquivos, a fim de facilitar a compreensão.
 
 ## Referência
 
